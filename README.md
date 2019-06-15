@@ -6,7 +6,9 @@ Requirements:
   <li>darksky</li>
   <li>GoogleMaps</li>
   <li>tkinter</li>
+  <li>openpyxl</li>
   <li>argparse</li>
   <li>warnings</li>
+  <li>operator</li>
  </ul>
   
